@@ -1,6 +1,6 @@
 
  .   
     
-# **It is not Dougs's Birthday**
+# **It is not Doug's Birthday**
 
 ![Alt Text](https://media.giphy.com/media/znrnkBB5sKfhS/giphy.gif)
